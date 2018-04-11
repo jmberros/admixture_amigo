@@ -20,6 +20,9 @@ admixture_amigo
     -o /path/to/results_dir
     -t 8
 
+# See all options:
 
 admixture_amigo --help
 ```
+
+The results (`.Q` and `.P` files) will be written to the provided `--out-dir`.
