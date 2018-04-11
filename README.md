@@ -1,6 +1,6 @@
 # Admixture Amigo
 
-A python tool to run Admixture easily on a PLINK dataset of `{.bed, .bim, .fam}` files for many values of K.
+A python tool to run [Admixture](https://www.genetics.ucla.edu/software/admixture/) easily on a PLINK dataset of `{.bed, .bim, .fam}` files for many values of K.
 
 ```bash
 
